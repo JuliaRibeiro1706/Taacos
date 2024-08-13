@@ -1,0 +1,55 @@
+*{ box-sizing: border-box; padding: 0; margin: 0;}
+
+.fundo{
+background-image: url("fundo.png"); 
+background-repeat: no-repeat; 
+background-size: cover; }
+
+.texto-intro{ 
+background-color: rgba(255, 255, 255, 0.582); 
+padding: 2%; margin: 0 10%; 
+font-family: "Inknut Antiqua", serif; }
+
+#logomenu{ 
+text-align: center; }
+
+#menu2{ 
+text-align: center; 
+font-size: 17px;}
+
+#coluna{
+display: flex;
+justify-content: space-around;
+margin-top: 5%; }
+
+.imgcamarao{ margin-top: 5%;}
+
+.imgvegetariano{ margin-top: 5%;}
+
+.imgfrango{ margin-top: 5%;}
+
+#camarao{ 
+text-align: left;
+font-size: 14px;}
+
+#vegetariano{ 
+text-align: left;
+font-size: 14px;}
+    
+#frango{ 
+text-align: left;
+font-size: 14px;}
+
+#parte1 svg{
+width: 1.5%;
+position: fixed;
+right: 4%;
+bottom: 4%;}
+
+#parte2 svg{
+width: 1.5%;
+position: fixed;
+left: 4%;
+bottom: 4%;}
+
+

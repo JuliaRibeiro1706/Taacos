@@ -1,0 +1,27 @@
+*{ box-sizing: border-box; padding: 0; margin: 0;}
+
+.fundo{
+background-image: url("fundo.png"); 
+background-repeat: no-repeat; 
+height: 100vh;
+background-size: cover; }
+
+#logo{ text-align: center; }
+
+.texto-intro{ 
+background-color: rgba(255, 255, 255, 0.582); 
+padding: 2%; margin: 0 10%; 
+font-family: "Inknut Antiqua", serif; }
+    
+.texto{font-size: 15px; }
+    
+.titulo{text-align: center;}
+
+#parte1 svg{
+width: 1.5%;
+position: fixed;
+right: 4%;
+bottom: 4%;}
+
+
+

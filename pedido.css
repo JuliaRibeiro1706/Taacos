@@ -1,0 +1,43 @@
+*{ box-sizing: border-box; padding: 0; margin: 0;}
+
+.fundo{
+background-image: url("fundo.png"); 
+background-repeat: no-repeat; 
+background-size: cover;
+height: 100vh; }
+
+.texto-intro{ 
+background-color: rgba(255, 255, 255, 0.582); 
+padding: 2%; margin: 0 10%; 
+font-family: "Inknut Antiqua", serif; }
+
+#logomenu{ 
+text-align: center; }
+
+#selecione{
+text-align: left;
+font-size: 15px;}
+    
+#quantidade{
+text-align: left;
+font-size: 15px;}
+    
+#pagamento{
+text-align: left;
+font-size: 15px;}
+
+#cadastro{ 
+text-align: center; 
+font-size: 17px;}
+    
+#finalizar{ 
+text-align: center;
+font-size: 17px;
+color: black; }
+
+#parte2 svg{
+width: 1.5%;
+position: fixed;
+left: 4%;
+bottom: 4%;}
+    

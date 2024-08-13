@@ -1,0 +1,47 @@
+*{ box-sizing: border-box; padding: 0; margin: 0;}
+
+.fundo{
+background-image: url("fundo.png"); 
+background-repeat: no-repeat; 
+background-size: cover;
+height: 100vh; }
+
+.texto-intro{ 
+background-color: rgba(255, 255, 255, 0.582); 
+padding: 2%; margin: 0 10%; 
+font-family: "Inknut Antiqua", serif; }
+
+#logomenu{ 
+text-align: center; }
+
+#contato{ 
+text-align: center; 
+font-size: 17px;}
+    
+#txt01{ 
+text-align: left; 
+font-size: 15px;}
+    
+#email{
+font-size: 15px;
+text-align: left;}
+
+#telefone{
+font-size: 15px;
+text-align: left;}
+
+#insta{
+font-size: 15px;
+text-align: left;}
+
+#parte1 svg{
+width: 1.5%;
+position: fixed;
+right: 4%;
+bottom: 4%;}
+
+#parte2 svg{
+width: 1.5%;
+position: fixed;
+left: 4%;
+bottom: 4%;}
